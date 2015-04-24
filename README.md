@@ -3,7 +3,7 @@ This is an XML API which parses the results from SRM University Exam Results pag
 
 URL Format:
 
-http://srm-results.appspot.com/xml/?registerno=11010101010&dob=1990-01-12
+http://srm-results.appspot.com/xml?registerno=11010101010&dob=1990-01-12
 
 Params:
 
